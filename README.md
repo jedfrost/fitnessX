@@ -1,4 +1,4 @@
-fitnessx
+#fitnessx
 Sample Project in Flutter wtth Provider implementation
 #IOS
 <img src="https://github.com/jedfrost/fitnessX/blob/main/screenshot/Simulator%20Screenshot%20-%20iPhone%2016%20Plus%20-%202025-08-16%20at%2022.05.07.png?raw=true" width="200" alt="iOS App Screenshot 1">
