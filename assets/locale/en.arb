@@ -1,0 +1,43 @@
+{
+    "@@locale": "en",
+    "everybodyCanTraing": "Everybody Can Train",
+    "onBoardingTitle1":"Track Your Goal",
+    "onBoardingDesc1":"Don't worry if you have trouble determining your goals, We can help you determine your goals and track your goals",
+    "onBoardingTitle2":"Get Burn",
+    "onBoardingDesc2":"Let’s keep burning, to achive yours goals, it hurts only temporarily, if you give up now you will be in pain forever",
+    "onBoardingTitle3":"Eat Well",
+    "onBoardingDesc3":"Let's start a healthy lifestyle with us, we can determine your diet every day. healthy eating is fun",
+    "onBoardingTitle4":"Improve Sleep  Quality",
+    "onBoardingDesc4":"Improve the quality of your sleep with us, good quality sleep can bring a good mood in the morning",
+    "heyThere":"Hey there,",
+    "welcomeBack":"Welcome Back",
+    "forgotPassword":"Forgot your password?",
+    "login":"Login",
+    "donthaveAccount":"Don’t have an account yet?",
+    "register":"Register",
+    "whatsYourGoal":"What is your goal ?",
+    "itHelps":"It will help us to choose a best\nprogram for you",
+    "createAnAccount":"Create an Account",
+    "firstName":"First Name",
+    "lastName":"Last Name",
+    "email":"Email",
+    "password":"Password",
+    "termsCondition":"By continuing you accept our Privacy Policy and Term of Use",
+    "alreadyHaveAccount":"Already have an account?",
+    "confirm":"Confirm",
+    "chooseGender":"Choose Gender",
+    "dateOfBirth":"Date of Birth",
+    "yourWeight":"Your Weight",
+    "yourHeight":"Your Height",
+    "improveShare":"Improve Shape",
+    "imporveShapeDesc":"I have a low amount of body fat and need / want to build more muscle",
+    "leanTone":"Lean & Tone",
+    "leanToneDesc":"I’m “skinny fat”. look thin but have no shape. I want to add learn muscle in the right way",
+    "loseFat":"Lose a Fat",
+    "loseFatDesc":"I have over 20 lbs to lose. I want to drop all this fat and gain muscle mass"
+
+
+
+
+
+}
