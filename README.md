@@ -1,16 +1,9 @@
 # fitnessx
 
-A new Flutter project.
+Sample Project in Flutter wtth Provider implementation
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/user-attachments/assets/f70be343-9df2-43c4-97fe-fc6af480bdbb  
+https://github.com/user-attachments/assets/e17787f6-7df0-4054-ab0c-15db71d6ef71  
+https://github.com/user-attachments/assets/6dac50dd-8203-41c2-b01f-cba633799cb4 
+https://github.com/user-attachments/assets/81e34051-ac95-472e-aedb-4e44b39d46f3  
+https://github.com/user-attachments/assets/51b9f958-3dd6-4f71-b8d0-c178a59a9878
